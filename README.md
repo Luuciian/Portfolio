@@ -4,4 +4,5 @@ Como primer proyecto, para poner a prueba el primer contacto con HTML5 y CSS, he
 
 ## Tecnoloígas:
 
-<img src= "https://cdn-icons-png.flaticon.com/512/174/174854.png" width- "100">
+<img src= "https://cdn-icons-png.flaticon.com/512/174/174854.png" width="100">
+<img src= "https://cdn-icons-png.flaticon.com/512/919/919826.png" width="100">
